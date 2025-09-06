@@ -46,11 +46,6 @@ The detailed modeling process is provided in the attached Google Colaboratory fi
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/intanurobiannisa/student-stress-predictor.git
-cd student-stress-predictor
-
 A simple Streamlit app template for you to modify!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://intanannisa-student-stress-prediction.streamlit.app)
@@ -68,3 +63,8 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/intanurobiannisa/student-stress-predictor.git
+cd student-stress-predictor
