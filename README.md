@@ -64,7 +64,7 @@ A simple Streamlit app template for you to modify!
    $ streamlit run streamlit_app.py
    ```
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/intanurobiannisa/student-stress-predictor.git
 cd student-stress-predictor
